@@ -16,3 +16,16 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.ui 4 4 2012-03-07 18:10:22.523
 !MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-03-07 18:37:42.112 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_AT
+Framework arguments:  -pluginCustomization C:\NVPACK\eclipse\nvpref.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization C:\NVPACK\eclipse\nvpref.ini
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-03-07 18:37:47.163
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 4 4 2012-03-07 18:37:59.716
+!MESSAGE Invalid preference page path: XML Syntax
